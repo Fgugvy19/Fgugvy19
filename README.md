@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ creating websites with Html | css | js| ts | react<br>📚 Gratuated from Computer science from [Obour Institutions]<br>🎯 Goals: Building interactive, 3D websites.<br>🎲 Fun fact: I'm actually pretty good in football , and decent in chess</p>
+<p align="left">✨ creating websites with Html | css | js| ts | react<br>📚 Graduated from Computer science from [Obour Institutions]<br>🎯 Goals: Building interactive, 3D websites.<br>🎲 Fun fact: I'm actually pretty good in football , and decent in chess</p>
 
 ###
 
